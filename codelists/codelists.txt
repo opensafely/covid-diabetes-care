@@ -1,0 +1,17 @@
+nhsd-primary-care-domain-refsets/dmtype1_cod/20210127
+nhsd-primary-care-domain-refsets/dmtype2_cod/20200812
+nhsd-primary-care-domain-refsets/dmres_cod/20200812
+
+opensafely/glycated-haemoglobin-hba1c-tests-numerical-value/5134e926
+
+opensafely/ethnicity-snomed-0removed/2e641f61
+opensafely/chronic-cardiac-disease/1bc2332b
+opensafely/learning-disabilities/4b8cfee8
+
+user/alex-walker/dpp-4-inhibitors-dmd/57ae06be/
+user/alex-walker/glp1s-dmd/524886d2/
+user/alex-walker/insulin-dmd/09cced29/
+user/alex-walker/metformin-dmd/258f2054/
+user/alex-walker/pioglitazone-dmd/3bebd393/
+user/alex-walker/sglt-2-inhibitors-dmd/2029a068/
+user/alex-walker/sulfonylureas-dmd/6e0ab9fd/

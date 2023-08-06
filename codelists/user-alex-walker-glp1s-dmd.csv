@@ -1,0 +1,46 @@
+dmd_type,dmd_id,dmd_name,bnf_code
+VMP,36630511000001105,Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices,0601012ABAAAAAA
+VMP,36630611000001109,Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices,0601012ABAAABAB
+AMP,36620611000001107,Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens,0601012ABBBAAAA
+AMP,36618311000001109,Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens,0601012ABBBABAB
+VMP,15859111000001102,Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices,0601023ABAAAAAA
+AMP,15858611000001101,Victoza 6mg/ml solution for injection 3ml pre-filled pens,0601023ABBBAAAA
+AMP,33747711000001102,Saxenda 6mg/ml solution for injection 3ml pre-filled pens,0601023ABBCAAAA
+VMP,21994811000001105,Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices,0601023AIAAAAAA
+VMP,21994611000001106,Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices,0601023AIAAABAB
+VMP,21994711000001102,Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices,0601023AIAAACAC
+AMP,21941011000001105,Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pens,0601023AIBBAAAA
+AMP,21941511000001102,Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pens,0601023AIBBABAB
+AMP,21953711000001106,Lyxumia 10micrograms/20micrograms treatment initiation pack,0601023AIBBACAC
+VMP,28789611000001108,Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices,0601023AQAAAAAA
+VMP,28789711000001104,Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices,0601023AQAAABAB
+VMP,39233411000001108,Dulaglutide 3mg/0.5ml solution for injection pre-filled disposable devices,0601023AQAAACAC
+VMP,39233511000001107,Dulaglutide 4.5mg/0.5ml solution for injection pre-filled disposable devices,0601023AQAAADAD
+AMP,28461011000001109,Trulicity 0.75mg/0.5ml solution for injection pre-filled pens,0601023AQBBAAAA
+AMP,28462311000001103,Trulicity 1.5mg/0.5ml solution for injection pre-filled pens,0601023AQBBABAB
+AMP,39232411000001104,Trulicity 3mg/0.5ml solution for injection pre-filled pens,0601023AQBBACAC
+AMP,39232611000001101,Trulicity 4.5mg/0.5ml solution for injection pre-filled pens,0601023AQBBADAD
+VMP,28279611000001109,Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices,0601023AUAAAAAA
+AMP,28054311000001106,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens,0601023AUBBAAAA
+VMP,36490911000001109,Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device,0601023AWAAAAAA
+VMP,36491011000001101,Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device,0601023AWAAABAB
+VMP,36491111000001100,Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device,0601023AWAAACAC
+VMP,38840111000001100,Semaglutide 14mg tablets,0601023AWAAADAD
+VMP,38840211000001106,Semaglutide 3mg tablets,0601023AWAAAEAE
+VMP,38840311000001103,Semaglutide 7mg tablets,0601023AWAAAFAF
+AMP,36470811000001107,Ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pens,0601023AWBBAAAA
+AMP,36471111000001106,Ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pens,0601023AWBBABAB
+AMP,36471411000001101,Ozempic 1mg/0.74ml solution for injection 3ml pre-filled pens,0601023AWBBACAC
+AMP,38732411000001108,Rybelsus 14mg tablets,0601023AWBCAAAD
+AMP,38731811000001101,Rybelsus 3mg tablets,0601023AWBCABAE
+AMP,38732111000001103,Rybelsus 7mg tablets,0601023AWBCACAF
+VMP,11494211000001108,Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices,0601023Y0AAAAAA
+VMP,11494111000001102,Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices,0601023Y0AAABAB
+VMP,19275411000001107,Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials,0601023Y0AAACAC
+VMP,28440211000001102,Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices,0601023Y0AAADAD
+VMP,38082811000001104,Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devices,0601023Y0AAAEAE
+AMP,11494811000001109,Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pens,0601023Y0BBAAAA
+AMP,11494611000001105,Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pens,0601023Y0BBABAB
+AMP,19274811000001108,Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials,0601023Y0BCAAAC
+AMP,28426011000001108,Bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pens,0601023Y0BCABAD
+AMP,38060511000001101,Bydureon BCise 2mg/0.85ml prolonged-release suspension for injection pre-filled pens,0601023Y0BCACAE
