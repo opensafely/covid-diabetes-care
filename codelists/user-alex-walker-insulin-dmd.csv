@@ -1,0 +1,249 @@
+dmd_type,dmd_id,dmd_name,bnf_code
+VMP,36047011000001105,Insulin aspart 100units/ml solution for injection 10ml vials,0601011A0AAAAAA
+VMP,3468611000001108,Insulin aspart 100units/ml solution for injection 3ml cartridges,0601011A0AAABAB
+VMP,3468711000001104,Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices,0601011A0AAACAC
+VMP,26655811000001102,Insulin aspart 100units/ml solution for injection 1.6ml cartridges,0601011A0AAADAD
+AMP,3280711000001103,NovoRapid 100units/ml solution for injection 10ml vials,0601011A0BBAAAA
+AMP,3279211000001105,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges,0601011A0BBABAB
+AMP,3281611000001102,NovoRapid Novolet 100units/ml solution for injection,0601011A0BBACAC
+AMP,3282211000001106,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pens,0601011A0BBADAC
+AMP,19570211000001106,NovoRapid FlexTouch 100units/ml solution for injection 3ml pre-filled pens,0601011A0BBAEAC
+AMP,26209611000001109,NovoRapid PumpCart 100units/ml solution for injection 1.6ml cartridges,0601011A0BBAFAD
+AMP,34043011000001106,Fiasp FlexTouch 100units/ml solution for injection 3ml pre-filled pens,0601011A0BCAAAC
+AMP,34043211000001101,Fiasp Penfill 100units/ml solution for injection 3ml cartridges,0601011A0BCABAB
+AMP,34043411000001102,Fiasp 100units/ml solution for injection 10ml vials,0601011A0BCACAA
+AMP,39820211000001106,Trurapi 100units/ml solution for injection 3ml cartridges,0601011A0BDAAAB
+AMP,39820411000001105,Trurapi 100units/ml solution for injection 3ml pre-filled Solostar pens,0601011A0BDABAC
+AMP,40180811000001105,Trurapi 100units/ml solution for injection 10ml vials,0601011A0BDACAA
+VMP,36047511000001102,Insulin lispro 100units/ml solution for injection 1.5ml cartridges,0601011L0AAAAAA
+VMP,36047611000001103,Insulin lispro 100units/ml solution for injection 10ml vials,0601011L0AAABAB
+VMP,36047711000001107,Insulin lispro 100units/ml solution for injection 3ml cartridges,0601011L0AAACAC
+VMP,36047811000001104,Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices,0601011L0AAAFAF
+VMP,28989711000001106,Insulin lispro 200units/ml solution for injection 3ml pre-filled disposable devices,0601011L0AAAGAG
+AMP,3282711000001104,Humalog 100units/ml solution for injection 1.5ml cartridges,0601011L0BBAAAA
+AMP,3280111000001104,Humalog 100units/ml solution for injection 10ml vials,0601011L0BBABAB
+AMP,3284311000001105,Humalog 100units/ml solution for injection 3ml cartridges,0601011L0BBACAC
+AMP,3278511000001102,Humalog Pen 100units/ml solution for injection 3ml pre-filled pens,0601011L0BBAFAF
+AMP,13877811000001105,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pens,0601011L0BBAGAF
+AMP,28926811000001100,Humalog KwikPen 200units/ml solution for injection 3ml pre-filled pens,0601011L0BBAHAG
+AMP,35216811000001101,Humalog Junior KwikPen 100units/ml solution for injection 3ml pre-filled pens,0601011L0BBAIAF
+AMP,40322211000001107,Humalog Tempo Pen 100units/ml solution for injection 3ml pre-filled pens,0601011L0BBAJAF
+AMP,35776411000001102,Insulin lispro Sanofi 100units/ml solution for injection 10ml vials,0601011L0BCAAAB
+AMP,35776511000001103,Insulin lispro Sanofi 100units/ml solution for injection 3ml cartridges,0601011L0BCABAC
+AMP,35776811000001100,Insulin lispro Sanofi 100units/ml solution for injection 3ml pre-filled pens,0601011L0BCACAF
+AMP,38501011000001104,Lyumjev KwikPen 200units/ml solution for injection 3ml pre-filled pens,0601011L0BDAAAG
+AMP,38456911000001105,Lyumjev 100units/ml solution for injection 10ml vials,0601011L0BDABAB
+AMP,38456111000001107,Lyumjev 100units/ml solution for injection 3ml cartridges,0601011L0BDACAC
+AMP,38465811000001104,Lyumjev KwikPen 100units/ml solution for injection 3ml pre-filled pens,0601011L0BDADAF
+AMP,38479611000001109,Lyumjev Junior KwikPen 100units/ml solution for injection 3ml pre-filled pens,0601011L0BDAEAF
+AMP,40322611000001109,Lyumjev Tempo Pen 100units/ml solution for injection 3ml pre-filled pens,0601011L0BDAFAF
+AMP,40031711000001108,Admelog 100units/ml solution for injection 3ml cartridges,0601011L0BEAAAC
+AMP,40032311000001100,Admelog 100units/ml solution for injection 10ml vials,0601011L0BEABAB
+AMP,40033011000001107,Admelog 100units/ml solution for injection 3ml pre-filled pens,0601011L0BEACAF
+VMP,36048111000001107,Insulin soluble bovine 100units/ml solution for injection 10ml vials,0601011N0AAAAAA
+VMP,36048711000001108,Insulin soluble porcine 100units/ml solution for injection 10ml vials,0601011N0AAACAC
+VMP,36048211000001101,Insulin soluble human 100units/ml solution for injection 1.5ml cartridges,0601011N0AAADAD
+VMP,36048311000001109,Insulin soluble human 100units/ml solution for injection 10ml vials,0601011N0AAALAL
+VMP,36048511000001103,Insulin soluble human 100units/ml solution for injection 3ml pre-filled disposable devices,0601011N0AAAMAM
+VMP,36048411000001102,Insulin soluble human 100units/ml solution for injection 3ml cartridges,0601011N0AAAPAP
+VMP,36048011000001106,Insulin soluble bovine 100units/ml solution for injection 1.5ml cartridges,0601011N0AAATAT
+VMP,3474611000001109,Insulin soluble porcine 100units/ml solution for injection 1.5ml cartridges,0601011N0AAAUAU
+VMP,36048611000001104,Insulin soluble human 100units/ml solution for injection 5ml vials,0601011N0AAAWAW
+VMP,4033311000001106,Insulin soluble bovine 100units/ml solution for injection 3ml cartridges,0601011N0AAAYAY
+VMP,4053711000001109,Insulin soluble porcine 100units/ml solution for injection 3ml cartridges,0601011N0AAAZAZ
+AMP,3271311000001101,Hypurin Bovine Neutral 100units/ml solution for injection 10ml vials,0601011N0BCAAAA
+AMP,3274011000001101,Hypurin Bovine Neutral 100units/ml solution for injection 1.5ml cartridges,0601011N0BCADAT
+AMP,3285011000001106,Hypurin Porcine Neutral 100units/ml solution for injection 10ml vials,0601011N0BCAEAC
+AMP,3283411000001101,Hypurin Porcine Neutral 100units/ml solution for injection 1.5ml cartridges,0601011N0BCAFAU
+AMP,4028811000001105,Hypurin Bovine Neutral 100units/ml solution for injection 3ml cartridges,0601011N0BCAGAY
+AMP,4034911000001109,Hypurin Porcine Neutral 100units/ml solution for injection 3ml cartridges,0601011N0BCAHAZ
+AMP,3312411000001103,Velosulin 100units/ml solution for injection 10ml vials,0601011N0BFACAL
+AMP,3312111000001108,Actrapid 100units/ml solution for injection 10ml vials,0601011N0BFAEAL
+AMP,3309511000001105,Human Actrapid Penfill 100units/ml solution for injection 1.5ml cartridges,0601011N0BFAJAD
+AMP,3288511000001106,Actrapid NovoLet 100units/ml solution for injection,0601011N0BFAPAM
+AMP,3310711000001105,Actrapid Penfill 100units/ml solution for injection 3ml cartridges,0601011N0BFAQAP
+AMP,3285611000001104,Pork Actrapid 100units/ml solution for injection 10ml vials,0601011N0BFASAC
+AMP,3312611000001100,Humulin S 100units/ml solution for injection 10ml vials,0601011N0BHAAAL
+AMP,3290411000001108,HumaJect S Pen 100units/ml solution for injection,0601011N0BHACAM
+AMP,3311311000001101,Humulin S 100units/ml solution for injection 3ml cartridges,0601011N0BHADAP
+AMP,3294911000001105,Insuman Rapid 100units/ml solution for injection 5ml vials,0601011N0BKAAAW
+AMP,3311611000001106,Insuman Rapid 100units/ml solution for injection 3ml cartridges,0601011N0BKABAP
+AMP,3291711000001105,Insuman Rapid 100units/ml solution for injection 3ml pre-filled OptiSet pens,0601011N0BKACAM
+VMP,36047211000001100,Insulin glulisine 100units/ml solution for injection 10ml vials,0601011P0AAAAAA
+VMP,9532111000001100,Insulin glulisine 100units/ml solution for injection 3ml cartridges,0601011P0AAABAB
+VMP,10097211000001102,Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices,0601011P0AAACAC
+AMP,9528811000001107,Apidra 100units/ml solution for injection 10ml vials,0601011P0BBAAAA
+AMP,9528311000001103,Apidra 100units/ml solution for injection 3ml cartridges,0601011P0BBABAB
+AMP,10093311000001103,Apidra 100units/ml solution for injection 3ml pre-filled OptiSet pens,0601011P0BBACAC
+AMP,10898411000001103,Apidra 100units/ml solution for injection 3ml OptiClik cartridges,0601011P0BBADAB
+AMP,12144611000001100,Apidra 100units/ml solution for injection 3ml pre-filled SoloStar pens,0601011P0BBAEAC
+VMP,10703011000001101,Insulin human 1mg inhalation powder blisters,0601011Q0AAAAAA
+VMP,10703111000001100,Insulin human 3mg inhalation powder blisters,0601011Q0AAABAB
+AMP,10690511000001105,Exubera 1mg inhalation powder blisters,0601011Q0BBAAAA
+AMP,10690811000001108,Exubera 3mg inhalation powder blisters,0601011Q0BBABAB
+VMP,15611411000001108,Insulin human 500units/ml solution for injection 20ml vials,0601011R0AAABAB
+AMP,28044911000001109,Insulin human 500units/ml solution for injection 20ml vials,0601011R0AAABAB
+VMP,18083911000001104,Insulin human 100units/ml solution for injection 3.15ml cartridges,0601011R0AAACAC
+VMP,13859411000001101,Insulin human 100units/ml solution for injection 10ml vials,0601011R0AAADAD
+AMP,15871011000001104,Insulin human 100units/ml solution for injection 10ml vials,0601011R0AAADAD
+VMP,35215111000001102,Insulin human 500units/ml solution for injection 3ml pre-filled disposable devices,0601011R0AAAEAE
+AMP,13850511000001105,Humulin R 100units/ml solution for injection 10ml vials,0601011R0BBAAAD
+AMP,15603111000001104,Humulin R 500units/ml solution for injection 20ml vials,0601011R0BBABAB
+AMP,18030311000001100,Insuman Infusat 100units/ml solution for injection 10ml vials,0601011R0BCAAAD
+AMP,18046311000001103,Insuman Infusat 100units/ml solution for injection 3.15ml cartridges,0601011R0BDAAAC
+AMP,35214311000001104,Humulin R KwikPen 500units/ml solution for injection 3ml pre-filled pens,0601011R0BEAAAE
+VMP,36630511000001105,Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices,0601012ABAAAAAA
+VMP,36630611000001109,Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices,0601012ABAAABAB
+AMP,36620611000001107,Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens,0601012ABBBAAAA
+AMP,36618311000001109,Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens,0601012ABBBABAB
+VMP,3471411000001109,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 1.5ml cartridges,0601012D0AAA2A2
+VMP,3470111000001105,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012D0AAA3A3
+VMP,3471511000001108,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 10ml vials,0601012D0AAA4A4
+VMP,3470711000001106,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 10ml vials,0601012D0AAAGAG
+VMP,3472011000001108,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 10ml vials,0601012D0AAAIAI
+VMP,3470511000001101,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 1.5ml cartridges,0601012D0AAAJAJ
+VMP,3470011000001109,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml cartridges,0601012D0AAAZAZ
+VMP,3470911000001108,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml cartridges,0601012D0AABABA
+VMP,3471911000001101,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 1.5ml cartridges,0601012D0AABDBD
+VMP,3469911000001105,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 1.5ml cartridges,0601012D0AABEBE
+VMP,3471311000001102,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012D0AABHBH
+VMP,3469411000001102,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 3ml cartridges,0601012D0AABIBI
+VMP,3469311000001109,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 1.5ml cartridges,0601012D0AABJBJ
+VMP,3471211000001105,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 3ml cartridges,0601012D0AABKBK
+VMP,3471111000001104,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 1.5ml cartridges,0601012D0AABLBL
+VMP,3470411000001100,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 5ml vials,0601012D0AABMBM
+VMP,3470211000001104,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml cartridges,0601012D0AABNBN
+VMP,3469511000001103,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012D0AABQBQ
+VMP,3469811000001100,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 5ml vials,0601012D0AABRBR
+VMP,3469611000001104,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml cartridges,0601012D0AABSBS
+VMP,3471811000001106,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 5ml vials,0601012D0AABTBT
+VMP,3471611000001107,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml cartridges,0601012D0AABUBU
+VMP,3469711000001108,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012D0AABVBV
+VMP,3470311000001107,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012D0AABWBW
+VMP,3471711000001103,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012D0AABXBX
+VMP,4033111000001109,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 3ml cartridges,0601012D0AABYBY
+VMP,3471011000001100,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012D0AABZBZ
+AMP,3274811000001107,Humulin M3 100units/ml suspension for injection 10ml vials,0601012D0BBACAG
+AMP,3271011000001104,Humulin M5 100units/ml suspension for injection 10ml vials,0601012D0BBAIA4
+AMP,3272211000001102,HumaJect M3 Pen 100units/ml suspension for injection,0601012D0BBAMBZ
+AMP,3263611000001100,Humulin M2 100units/ml suspension for injection 3ml cartridges,0601012D0BBARAZ
+AMP,3273611000001105,Humulin M3 100units/ml suspension for injection 3ml cartridges,0601012D0BBASBA
+AMP,9437511000001101,Humulin M3 Pen 100units/ml suspension for injection 3ml pre-filled pens,0601012D0BBAUBZ
+AMP,17609511000001109,Humulin M3 KwikPen 100units/ml suspension for injection 3ml pre-filled pens,0601012D0BBAVBZ
+AMP,3267911000001102,Pork Mixtard 30 100units/ml suspension for injection 10ml vials,0601012D0BCABAI
+AMP,3275311000001104,Human Mixtard 30 Penfill 100units/ml suspension for injection 1.5ml cartridges,0601012D0BCALAJ
+AMP,3268711000001103,Human Mixtard 10 Penfill 100units/ml suspension for injection 1.5ml cartridges,0601012D0BCAMBJ
+AMP,3267811000001107,Human Mixtard 20 Penfill 100units/ml suspension for injection 1.5ml cartridges,0601012D0BCANBE
+AMP,3285511000001103,Human Mixtard 40 Penfill 100units/ml suspension for injection 1.5ml cartridges,0601012D0BCAPBL
+AMP,3273411000001107,Human Mixtard 50 Penfill 100units/ml suspension for injection 1.5ml cartridges,0601012D0BCAQA2
+AMP,3270511000001100,Mixtard 30 NovoLet 100units/ml suspension for injection,0601012D0BCARBZ
+AMP,3269711000001107,Mixtard 10 NovoLet 100units/ml suspension for injection,0601012D0BCASBQ
+AMP,3266111000001103,Mixtard 20 NovoLet 100units/ml suspension for injection,0601012D0BCATA3
+AMP,3272011000001107,Mixtard 40 NovoLet 100units/ml suspension for injection,0601012D0BCAUBH
+AMP,3278311000001108,Mixtard 50 NovoLet 100units/ml suspension for injection,0601012D0BCAVBX
+AMP,3275011000001102,Mixtard 30 100units/ml suspension for injection 10ml vials,0601012D0BCAWAG
+AMP,3270611000001101,Human Mixtard 50 100units/ml suspension for injection 10ml vials,0601012D0BCAXA4
+AMP,3264711000001106,Mixtard 10 Penfill 100units/ml suspension for injection 3ml cartridges,0601012D0BCAYBI
+AMP,3264411000001100,Mixtard 20 Penfill 100units/ml suspension for injection 3ml cartridges,0601012D0BCAZAZ
+AMP,3273111000001102,Mixtard 30 Penfill 100units/ml suspension for injection 3ml cartridges,0601012D0BCBABA
+AMP,3281211000001104,Mixtard 40 Penfill 100units/ml suspension for injection 3ml cartridges,0601012D0BCBBBK
+AMP,3272811000001101,Mixtard 50 Penfill 100units/ml suspension for injection 3ml cartridges,0601012D0BCBCBU
+AMP,3271611000001106,Mixtard 30 InnoLet 100units/ml suspension for injection 3ml pre-filled pens,0601012D0BCBDBZ
+AMP,3266811000001105,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 10ml vials,0601012D0BEAGAI
+AMP,3277711000001106,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 1.5ml cartridges,0601012D0BEAHBD
+AMP,4029411000001100,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 3ml cartridges,0601012D0BEAIBY
+AMP,3263011000001107,Insuman Comb 25 100units/ml suspension for injection 5ml vials,0601012D0BGAABM
+AMP,3264111000001105,Insuman Comb 25 100units/ml suspension for injection 3ml cartridges,0601012D0BGABBN
+AMP,3271711000001102,Insuman Comb 15 100units/ml suspension for injection 5ml vials,0601012D0BGACBR
+AMP,3273911000001104,Insuman Comb 15 100units/ml suspension for injection 3ml cartridges,0601012D0BGADBS
+AMP,3274511000001109,Insuman Comb 50 100units/ml suspension for injection 5ml vials,0601012D0BGAEBT
+AMP,3272411000001103,Insuman Comb 50 100units/ml suspension for injection 3ml cartridges,0601012D0BGAFBU
+AMP,3270211000001103,Insuman Comb 15 100units/ml suspension for injection 3ml pre-filled OptiSet pens,0601012D0BGAGBV
+AMP,3259811000001109,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled OptiSet pens,0601012D0BGAHBW
+AMP,3278611000001103,Insuman Comb 50 100units/ml suspension for injection 3ml pre-filled OptiSet pens,0601012D0BGAIBX
+AMP,18150311000001109,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled SoloStar pens,0601012D0BGAJBW
+VMP,3473511000001107,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012F0AAAAAA
+VMP,3473711000001102,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml cartridges,0601012F0AAABAB
+VMP,3473611000001106,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012F0AAACAC
+VMP,10352711000001104,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml cartridges,0601012F0AAADAD
+VMP,16548811000001104,Insulin lispro biphasic 25/75 100units/ml suspension for injection 10ml vials,0601012F0AAAEAE
+AMP,3276011000001106,Humalog Mix25 Pen 100units/ml suspension for injection 3ml pre-filled pens,0601012F0BBAAAA
+AMP,3275711000001100,Humalog Mix25 100units/ml suspension for injection 3ml cartridges,0601012F0BBABAB
+AMP,3276911000001105,Humalog Mix50 Pen 100units/ml suspension for injection 3ml pre-filled pens,0601012F0BBACAC
+AMP,10344911000001108,Humalog Mix50 100units/ml suspension for injection 3ml cartridges,0601012F0BBADAD
+AMP,13884711000001104,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pens,0601012F0BBAEAA
+AMP,13884911000001102,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pens,0601012F0BBAFAC
+AMP,16530311000001107,Humalog Mix25 100units/ml suspension for injection 10ml vials,0601012F0BBAGAE
+VMP,3474911000001103,Insulin zinc mixed bovine 100units/ml suspension for injection 10ml vials,0601012G0AAAHAH
+VMP,36048911000001105,Insulin zinc mixed human 100units/ml suspension for injection 10ml vials,0601012G0AAAHAH
+AMP,3280611000001107,Hypurin Bovine Lente 100units/ml suspension for injection 10ml vials,0601012G0BCAAAH
+AMP,3284111000001108,Monotard 100units/ml suspension for injection 10ml vials,0601012G0BDABAH
+AMP,3284911000001106,Humulin Lente 100units/ml suspension for injection 10ml vials,0601012G0BGAAAH
+VMP,36048811000001100,Insulin zinc crystalline human 100units/ml suspension for injection 10ml vials,0601012N0AAACAC
+AMP,3282311000001103,Ultratard 100units/ml suspension for injection 10ml vials,0601012N0BBAAAC
+AMP,3281811000001103,Humulin Zn 100units/ml suspension for injection 10ml vials,0601012N0BCAAAC
+VMP,3473011000001104,Insulin isophane porcine 100units/ml suspension for injection 10ml vials,0601012S0AAABAB
+VMP,3472311000001106,Insulin isophane bovine 100units/ml suspension for injection 10ml vials,0601012S0AAADAD
+VMP,3472511000001100,Insulin isophane human 100units/ml suspension for injection 10ml vials,0601012S0AAAEAE
+VMP,36047411000001101,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012S0AAAIAI
+VMP,36047311000001108,Insulin isophane human 100units/ml suspension for injection 3ml cartridges,0601012S0AAALAL
+VMP,3472411000001104,Insulin isophane human 100units/ml suspension for injection 1.5ml cartridges,0601012S0AAAMAM
+VMP,3472211000001103,Insulin isophane bovine 100units/ml suspension for injection 1.5ml cartridges,0601012S0AAANAN
+VMP,3472911000001107,Insulin isophane porcine 100units/ml suspension for injection 1.5ml cartridges,0601012S0AAAPAP
+VMP,3472811000001102,Insulin isophane human 100units/ml suspension for injection 5ml vials,0601012S0AAAQAQ
+VMP,4033211000001103,Insulin isophane bovine 100units/ml suspension for injection 3ml cartridges,0601012S0AAASAS
+VMP,4053611000001100,Insulin isophane porcine 100units/ml suspension for injection 3ml cartridges,0601012S0AAATAT
+AMP,3280011000001100,Hypurin Bovine Isophane 100units/ml suspension for injection 10ml vials,0601012S0BCAAAD
+AMP,3279311000001102,Hypurin Bovine Isophane 100units/ml suspension for injection 1.5ml cartridges,0601012S0BCADAN
+AMP,3284011000001107,Hypurin Porcine Isophane 100units/ml suspension for injection 10ml vials,0601012S0BCAEAB
+AMP,3282611000001108,Hypurin Porcine Isophane 100units/ml suspension for injection 1.5ml cartridges,0601012S0BCAFAP
+AMP,4028311000001101,Hypurin Bovine Isophane 100units/ml suspension for injection 3ml cartridges,0601012S0BCAGAS
+AMP,4034311000001108,Hypurin Porcine Isophane 100units/ml suspension for injection 3ml cartridges,0601012S0BCAHAT
+AMP,3333111000001107,Pork Insulatard 100units/ml suspension for injection 10ml vials,0601012S0BDAAAB
+AMP,3262511000001106,Insulatard NovoLet 100units/ml suspension for injection,0601012S0BDAIAI
+AMP,3256111000001105,Insulatard 100units/ml suspension for injection 10ml vials,0601012S0BDAJAE
+AMP,3259411000001107,Human Insulatard Penfill 100units/ml suspension for injection 1.5ml cartridges,0601012S0BDAKAM
+AMP,3263711000001109,Insulatard Penfill 100units/ml suspension for injection 3ml cartridges,0601012S0BDALAL
+AMP,3261411000001102,Insulatard InnoLet 100units/ml suspension for injection 3ml pre-filled pens,0601012S0BDAMAI
+AMP,3262011000001103,Insulatard FlexPen 100units/ml suspension for injection,0601012S0BDANAI
+AMP,3255911000001101,Humulin I 100units/ml suspension for injection 10ml vials,0601012S0BGAAAE
+AMP,3264211000001104,Humulin I 100units/ml suspension for injection 3ml cartridges,0601012S0BGADAL
+AMP,3260811000001108,Humulin I Pen 100units/ml suspension for injection 3ml pre-filled pens,0601012S0BGAEAI
+AMP,17608511000001103,Humulin I KwikPen 100units/ml suspension for injection 3ml pre-filled pens,0601012S0BGAFAI
+AMP,3258411000001104,Insuman Basal 100units/ml suspension for injection 5ml vials,0601012S0BIAAAQ
+AMP,3265011000001108,Insuman Basal 100units/ml suspension for injection 3ml cartridges,0601012S0BIABAL
+AMP,3260611000001109,Insuman Basal 100units/ml suspension for injection 3ml pre-filled OptiSet pens,0601012S0BIACAI
+AMP,19354411000001104,Insuman Basal 100units/ml suspension for injection 3ml pre-filled SoloStar pens,0601012S0BIADAI
+VMP,36047911000001109,Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials,0601012U0AAAAAA
+AMP,3269911000001109,Hypurin Bovine Protamine Zinc 100units/ml suspension for injection 10ml vials,0601012U0BBAAAA
+VMP,38896911000001108,Insulin glargine 100units/ml solution for injection 3ml cartridges,0601012V0AAAAAA
+VMP,36047111000001106,Insulin glargine 100units/ml solution for injection 10ml vials,0601012V0AAABAB
+VMP,38897011000001107,Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices,0601012V0AAADAD
+VMP,29903611000001103,Insulin glargine 300units/ml solution for injection 1.5ml pre-filled disposable devices,0601012V0AAAEAE
+VMP,36931811000001104,Insulin glargine 300units/ml solution for injection 3ml pre-filled disposable devices,0601012V0AAAFAF
+AMP,3284211000001102,Lantus 100units/ml solution for injection 3ml cartridges,0601012V0BBAAAA
+AMP,3287911000001100,Lantus 100units/ml solution for injection 10ml vials,0601012V0BBABAB
+AMP,3283211000001100,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pens,0601012V0BBACAD
+AMP,10250211000001101,Lantus 100units/ml solution for injection 3ml OptiClik cartridges,0601012V0BBADAA
+AMP,11933011000001106,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pens,0601012V0BBAEAD
+AMP,29866811000001104,Toujeo 300units/ml solution for injection 1.5ml pre-filled SoloStar pens,0601012V0BCAAAE
+AMP,36911311000001101,Toujeo 300units/ml solution for injection 3ml pre-filled DoubleStar pens,0601012V0BCABAF
+AMP,30172211000001102,Abasaglar 100units/ml solution for injection 3ml cartridges,0601012V0BDABAA
+AMP,30171811000001105,Abasaglar KwikPen 100units/ml solution for injection 3ml pre-filled pens,0601012V0BDACAD
+AMP,40322411000001106,Abasaglar Tempo Pen 100units/ml solution for injection 3ml pre-filled pens,0601012V0BDADAD
+AMP,36082811000001107,Semglee 100units/ml solution for injection 3ml pre-filled pens,0601012V0BEAAAD
+VMP,3468811000001107,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml cartridges,0601012W0AAAAAA
+VMP,3468911000001102,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml pre-filled disposable devices,0601012W0AAABAB
+AMP,3277811000001103,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges,0601012W0BBAAAA
+AMP,3277211000001104,NovoMix 30 FlexPen 100units/ml suspension for injection 3ml pre-filled pens,0601012W0BBABAB
+VMP,7597611000001106,Insulin detemir 100units/ml solution for injection 3ml cartridges,0601012X0AAAAAA
+VMP,7594211000001102,Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices,0601012X0AAABAB
+AMP,7589911000001108,Levemir Penfill 100units/ml solution for injection 3ml cartridges,0601012X0BBAAAA
+AMP,7589411000001100,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pens,0601012X0BBABAB
+AMP,11148111000001101,Levemir InnoLet 100units/ml solution for injection 3ml pre-filled pens,0601012X0BBACAB
+VMP,21939511000001100,Insulin degludec 100units/ml solution for injection 3ml cartridges,0601012Z0AAAAAA
+VMP,21939611000001101,Insulin degludec 100units/ml solution for injection 3ml pre-filled disposable devices,0601012Z0AAABAB
+VMP,21939711000001105,Insulin degludec 200units/ml solution for injection 3ml pre-filled disposable devices,0601012Z0AAACAC
+AMP,21928511000001109,Tresiba Penfill 100units/ml solution for injection 3ml cartridges,0601012Z0BBAAAA
+AMP,21930011000001100,Tresiba FlexTouch 100units/ml solution for injection 3ml pre-filled pens,0601012Z0BBABAB
+AMP,21931911000001108,Tresiba FlexTouch 200units/ml solution for injection 3ml pre-filled pens,0601012Z0BBACAC
