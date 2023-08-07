@@ -5,11 +5,47 @@ expectations:
 
 actions:
 
-  generate_dataset:
+  generate_dataset_2019:
     run: >
       ehrql:v0 
-        generate-dataset analysis/dataset_definition.py
-        --output output/dataset.arrow
+        generate-dataset analysis/dataset_definition_2019.py
+        --output output/dataset_2019.arrow
     outputs:
       highly_sensitive:
-        cohort: output/dataset.arrow
+        cohort: output/dataset_2019.arrow
+
+  generate_dataset_2020:
+    run: >
+      ehrql:v0 
+        generate-dataset analysis/dataset_definition_2020.py
+        --output output/dataset_2020.arrow
+    outputs:
+      highly_sensitive:
+        cohort: output/dataset_2020.arrow
+
+  generate_dataset_2021:
+    run: >
+      ehrql:v0 
+        generate-dataset analysis/dataset_definition_2021.py
+        --output output/dataset_2021.arrow
+    outputs:
+      highly_sensitive:
+        cohort: output/dataset_2021.arrow
+
+  generate_dataset_2022:
+    run: >
+      ehrql:v0 
+        generate-dataset analysis/dataset_definition_2022.py
+        --output output/dataset_2022.arrow
+    outputs:
+      highly_sensitive:
+        cohort: output/dataset_2022.arrow
+
+  generate_dataset_2023:
+    run: >
+      ehrql:v0 
+        generate-dataset analysis/dataset_definition_2023.py
+        --output output/dataset_2023.arrow
+    outputs:
+      highly_sensitive:
+        cohort: output/dataset_2023.arrow
