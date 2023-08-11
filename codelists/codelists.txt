@@ -15,3 +15,6 @@ user/alex-walker/metformin-dmd/258f2054/
 user/alex-walker/pioglitazone-dmd/3bebd393/
 user/alex-walker/sglt-2-inhibitors-dmd/2029a068/
 user/alex-walker/sulfonylureas-dmd/6e0ab9fd/
+
+primis-covid19-vacc-uptake/ckd15/v.1.5.3/
+primis-covid19-vacc-uptake/ckd35/v.1.5.3/

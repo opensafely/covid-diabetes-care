@@ -75,6 +75,22 @@ def generate_dataset(index_date):
     ).exists_for_patient()
     # egfr =
     # ckd =
+    dataset.ckd15 = (
+        prior_events.where(
+            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_diagnostic_codes)
+        )
+        .sort_by(prior_events.date)
+        .last_for_patient()
+        .exists_for_patient()
+    )
+    dataset.ckd35 = (
+        prior_events.where(
+            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_stages_3_5_codes)
+        )
+        .sort_by(prior_events.date)
+        .last_for_patient()
+        .exists_for_patient()
+    )
 
     # Diabetes variables
     diabetes_resolved = last_matching_event(prior_events, codelists.dmres_cod).date

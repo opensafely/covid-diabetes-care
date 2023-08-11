@@ -83,6 +83,18 @@
       "url": "https://codelists.opensafely.org/codelist/user/alex-walker/sulfonylureas-dmd/6e0ab9fd/",
       "downloaded_at": "2023-08-04 23:52:52.240557Z",
       "sha": "f94f9b31119772b47d6e7260608c844e81ae6cbe"
+    },
+    "primis-covid19-vacc-uptake-ckd15.csv": {
+      "id": "primis-covid19-vacc-uptake/ckd15/v.1.5.3",
+      "url": "https://codelists.opensafely.org/codelist/primis-covid19-vacc-uptake/ckd15/v.1.5.3/",
+      "downloaded_at": "2023-08-10 13:26:02.017190Z",
+      "sha": "c2e147ad688bcfa209eccf10587cdd27807e5eda"
+    },
+    "primis-covid19-vacc-uptake-ckd35.csv": {
+      "id": "primis-covid19-vacc-uptake/ckd35/v.1.5.3",
+      "url": "https://codelists.opensafely.org/codelist/primis-covid19-vacc-uptake/ckd35/v.1.5.3/",
+      "downloaded_at": "2023-08-10 13:26:02.196376Z",
+      "sha": "2e2e33d85817844bb8922fc6c87583c898f61ec5"
     }
   }
 }

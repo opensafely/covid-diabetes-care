@@ -71,3 +71,15 @@ sulfonylureas = codelist_from_csv(
     "codelists/user-alex-walker-sulfonylureas-dmd.csv",
     column="dmd_id",
 )
+
+## Chronic kidney disease diagnostic codes
+chronic_kidney_disease_diagnostic_codes = codelist_from_csv(
+    "codelists/primis-covid19-vacc-uptake-ckd15.csv",
+    column = "code",
+)
+
+## Chronic kidney disease codes-stages 3 - 5
+chronic_kidney_disease_stages_3_5_codes = codelist_from_csv(
+    "codelists/primis-covid19-vacc-uptake-ckd35.csv",
+    column="code",
+)
