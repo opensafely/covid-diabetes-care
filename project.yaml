@@ -49,3 +49,12 @@ actions:
     outputs:
       highly_sensitive:
         cohort: output/dataset_2023.arrow
+
+  generate_report_notebook:
+    run: jupyter:latest jupyter nbconvert /workspace/analysis/notebooks/summarise_dataset.ipynb --execute --to html --output-dir=/workspace/output --no-input --ExecutePreprocessor.timeout=86400
+    needs: [generate_dataset_2019, generate_dataset_2020, generate_dataset_2021, generate_dataset_2022, generate_dataset_2023]
+    outputs:
+      moderately_sensitive:
+        notebook: output/summarise_dataset.html
+        prescribing_tables: output/prescribing*.csv
+        totals_tables: output/totals*.csv
