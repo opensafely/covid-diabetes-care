@@ -83,3 +83,8 @@ chronic_kidney_disease_stages_3_5_codes = codelist_from_csv(
     "codelists/primis-covid19-vacc-uptake-ckd35.csv",
     column="code",
 )
+## Chronic kidney disease codes-stages 3 - 5
+chronic_kidney_disease_stage_5_codes = codelist_from_csv(
+    "codelists/nhsd-primary-care-domain-refsets-ckd5_cod.csv",
+    column="code",
+)

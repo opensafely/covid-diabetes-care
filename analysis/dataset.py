@@ -73,19 +73,19 @@ def generate_dataset(index_date):
     dataset.learning_difficulties = last_matching_event_ctv3(
         prior_events, codelists.learning_disabilites
     ).exists_for_patient()
-    # egfr =
-    # ckd =
-    dataset.ckd15 = (
+
+    # CKD
+    dataset.ckd35 = (
         prior_events.where(
-            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_diagnostic_codes)
+            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_stages_3_5_codes)
         )
         .sort_by(prior_events.date)
         .last_for_patient()
         .exists_for_patient()
     )
-    dataset.ckd35 = (
+    dataset.ckd5 = (
         prior_events.where(
-            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_stages_3_5_codes)
+            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_stage_5_codes)
         )
         .sort_by(prior_events.date)
         .last_for_patient()
@@ -113,6 +113,7 @@ def generate_dataset(index_date):
         when(dataset.hba1c > 86).then(">86"),
         default="Missing",
     )
+    dataset.hba1c_date = last_matching_event(prior_events, codelists.hba1c_cod).date
 
     # Medications
     dataset.dpp4_inhibitors = last_matching_med(recent_meds, codelists.dpp4_inhibitors)
