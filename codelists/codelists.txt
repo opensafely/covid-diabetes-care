@@ -15,6 +15,10 @@ user/alex-walker/metformin-dmd/258f2054/
 user/alex-walker/pioglitazone-dmd/3bebd393/
 user/alex-walker/sglt-2-inhibitors-dmd/2029a068/
 user/alex-walker/sulfonylureas-dmd/6e0ab9fd/
+user/Andrew/insulin-long-acting-basal/646512fd/
+user/Andrew/mixed-biphasic-insulin/32462c93/
+user/Andrew/glp-1s-excluding-those-combined-insulin/34f8ec89/
+user/Andrew/glp-1s-in-combination-with-insulin/6717d2f3/
 
-primis-covid19-vacc-uptake/ckd15/v.1.5.3/
 primis-covid19-vacc-uptake/ckd35/v.1.5.3/
+nhsd-primary-care-domain-refsets/ckd5_cod/20211221/
