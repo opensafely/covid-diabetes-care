@@ -1,0 +1,40 @@
+code,term
+0601012V0,Insulin glargine
+0601012V0AA,Insulin glargine
+0601012V0AAAAAA,Insulin glargine 100units/ml inj 3ml cartridges
+0601012V0AAABAB,Insulin glargine 100units/ml inj 10ml vials
+0601012V0AAADAD,Insulin glargine 100units/ml inj 3ml pf dispos dev
+0601012V0AAAEAE,Insulin glargine 300units/ml inj 1.5ml pf dispos dev
+0601012V0AAAFAF,Insulin glargine 300units/ml inj 3ml pf disposable devices
+0601012V0BB,Insulin Lantus
+0601012V0BBAAAA,Lantus 100units/ml solution for injection 3ml cartridges
+0601012V0BBABAB,Lantus 100units/ml solution for injection 10ml vials
+0601012V0BBACAD,Lantus 100units/ml inj 3ml pre-filled OptiSet pens
+0601012V0BBADAA,Lantus 100units/ml inj 3ml OptiClik cartridges
+0601012V0BBAEAD,Lantus 100units/ml inj 3ml pre-filled SoloStar pens
+0601012V0BC,Toujeo
+0601012V0BCAAAE,Toujeo 300units/ml inj 1.5ml pre-filled SoloStar pens
+0601012V0BCABAF,Toujeo 300units/ml inj 3ml pre-filled DoubleStar pens
+0601012V0BD,Abasaglar
+0601012V0BDABAA,Abasaglar 100units/ml solution for injection 3ml cartridges
+0601012V0BDACAD,Abasaglar KwikPen 100units/ml inj 3ml pre-filled pens
+0601012V0BDADAD,Abasaglar Tempo Pen 100units/ml inj 3ml pre-filled pens
+0601012V0BE,Semglee
+0601012V0BEAAAD,Semglee 100units/ml inj 3ml pre-filled pens
+0601012X0,Insulin detemir
+0601012X0AA,Insulin detemir
+0601012X0AAAAAA,Insulin detemir 100units/ml inj 3ml cartridges
+0601012X0AAABAB,Insulin detemir 100units/ml inj 3ml pf dispos dev
+0601012X0BB,Insulin Levemir (Novo-Nordisk)
+0601012X0BBAAAA,Levemir Penfill 100units/ml inj 3ml cartridges
+0601012X0BBABAB,Levemir FlexPen 100units/ml inj 3ml pre-filled pens
+0601012X0BBACAB,Levemir InnoLet 100units/ml inj 3ml pre-filled pens
+0601012Z0,Insulin degludec
+0601012Z0AA,Insulin degludec
+0601012Z0AAAAAA,Insulin degludec 100units/ml inj 3ml cartridges
+0601012Z0AAABAB,Insulin degludec 100units/ml inj 3ml pf dispos dev
+0601012Z0AAACAC,Insulin degludec 200units/ml inj 3ml pf dispos dev
+0601012Z0BB,Insulin Tresiba
+0601012Z0BBAAAA,Tresiba Penfill 100units/ml inj 3ml cartridges
+0601012Z0BBABAB,Tresiba FlexTouch 100units/ml inj 3ml pre-filled pens
+0601012Z0BBACAC,Tresiba FlexTouch 200units/ml inj 3ml pre-filled pens

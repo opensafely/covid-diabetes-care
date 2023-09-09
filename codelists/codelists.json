@@ -84,17 +84,41 @@
       "downloaded_at": "2023-08-04 23:52:52.240557Z",
       "sha": "f94f9b31119772b47d6e7260608c844e81ae6cbe"
     },
-    "primis-covid19-vacc-uptake-ckd15.csv": {
-      "id": "primis-covid19-vacc-uptake/ckd15/v.1.5.3",
-      "url": "https://codelists.opensafely.org/codelist/primis-covid19-vacc-uptake/ckd15/v.1.5.3/",
-      "downloaded_at": "2023-08-10 13:26:02.017190Z",
-      "sha": "c2e147ad688bcfa209eccf10587cdd27807e5eda"
+    "user-Andrew-insulin-long-acting-basal.csv": {
+      "id": "user/Andrew/insulin-long-acting-basal/646512fd",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/insulin-long-acting-basal/646512fd/",
+      "downloaded_at": "2023-09-09 19:53:25.167542Z",
+      "sha": "d41990abb274103d49becefa9cf7acd8ad0a6ad1"
+    },
+    "user-Andrew-mixed-biphasic-insulin.csv": {
+      "id": "user/Andrew/mixed-biphasic-insulin/32462c93",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/mixed-biphasic-insulin/32462c93/",
+      "downloaded_at": "2023-09-09 19:53:25.385306Z",
+      "sha": "f9ea7e6fc2ba5068f226be0415ec561c9c9a42b3"
+    },
+    "user-Andrew-glp-1s-excluding-those-combined-insulin.csv": {
+      "id": "user/Andrew/glp-1s-excluding-those-combined-insulin/34f8ec89",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/glp-1s-excluding-those-combined-insulin/34f8ec89/",
+      "downloaded_at": "2023-09-09 19:53:26.615579Z",
+      "sha": "d6bef3ac5c70307cc75c55e8134940da7fcb4ee7"
+    },
+    "user-Andrew-glp-1s-in-combination-with-insulin.csv": {
+      "id": "user/Andrew/glp-1s-in-combination-with-insulin/6717d2f3",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/glp-1s-in-combination-with-insulin/6717d2f3/",
+      "downloaded_at": "2023-09-09 19:53:26.847190Z",
+      "sha": "5e3672d7cd6ec5b496e21b361c6a1cad22a8e8ec"
     },
     "primis-covid19-vacc-uptake-ckd35.csv": {
       "id": "primis-covid19-vacc-uptake/ckd35/v.1.5.3",
       "url": "https://codelists.opensafely.org/codelist/primis-covid19-vacc-uptake/ckd35/v.1.5.3/",
       "downloaded_at": "2023-08-10 13:26:02.196376Z",
       "sha": "2e2e33d85817844bb8922fc6c87583c898f61ec5"
+    },
+    "nhsd-primary-care-domain-refsets-ckd5_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/ckd5_cod/20211221",
+      "url": "https://codelists.opensafely.org/codelist/nhsd-primary-care-domain-refsets/ckd5_cod/20211221/",
+      "downloaded_at": "2023-09-09 19:53:27.371970Z",
+      "sha": "39ccfa07e1520f229b6155c6ef7c3c7e91c294b7"
     }
   }
 }
