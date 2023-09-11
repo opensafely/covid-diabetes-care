@@ -83,6 +83,42 @@
       "url": "https://codelists.opensafely.org/codelist/user/alex-walker/sulfonylureas-dmd/6e0ab9fd/",
       "downloaded_at": "2023-08-04 23:52:52.240557Z",
       "sha": "f94f9b31119772b47d6e7260608c844e81ae6cbe"
+    },
+    "user-Andrew-insulin-long-acting-basal-dmd.csv": {
+      "id": "user/Andrew/insulin-long-acting-basal-dmd/02da061f",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/insulin-long-acting-basal-dmd/02da061f/",
+      "downloaded_at": "2023-09-11 08:41:09.447445Z",
+      "sha": "49d198583c9750138fd8a6340e328c23924f68e7"
+    },
+    "user-Andrew-mixed-biphasic-insulin-dmd.csv": {
+      "id": "user/Andrew/mixed-biphasic-insulin-dmd/69ca92e9",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/mixed-biphasic-insulin-dmd/69ca92e9/",
+      "downloaded_at": "2023-09-11 08:41:09.649328Z",
+      "sha": "266dccab0851c14968e273e46ed2b89a0e32317e"
+    },
+    "user-Andrew-glp-1s-excluding-those-combined-insulin-dmd.csv": {
+      "id": "user/Andrew/glp-1s-excluding-those-combined-insulin-dmd/1e9c394a",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/glp-1s-excluding-those-combined-insulin-dmd/1e9c394a/",
+      "downloaded_at": "2023-09-11 08:41:09.875869Z",
+      "sha": "7ba34c8bb4da3801af074273f1b7c623cd60bff7"
+    },
+    "user-Andrew-glp-1s-in-combination-with-insulin-dmd.csv": {
+      "id": "user/Andrew/glp-1s-in-combination-with-insulin-dmd/058cc615",
+      "url": "https://codelists.opensafely.org/codelist/user/Andrew/glp-1s-in-combination-with-insulin-dmd/058cc615/",
+      "downloaded_at": "2023-09-11 08:41:10.112897Z",
+      "sha": "d6d319a13b1a8abf3183a3b10da3db9cc617f43c"
+    },
+    "primis-covid19-vacc-uptake-ckd35.csv": {
+      "id": "primis-covid19-vacc-uptake/ckd35/v.1.5.3",
+      "url": "https://codelists.opensafely.org/codelist/primis-covid19-vacc-uptake/ckd35/v.1.5.3/",
+      "downloaded_at": "2023-08-10 13:26:02.196376Z",
+      "sha": "2e2e33d85817844bb8922fc6c87583c898f61ec5"
+    },
+    "nhsd-primary-care-domain-refsets-ckd5_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/ckd5_cod/20211221",
+      "url": "https://codelists.opensafely.org/codelist/nhsd-primary-care-domain-refsets/ckd5_cod/20211221/",
+      "downloaded_at": "2023-09-09 19:53:27.371970Z",
+      "sha": "39ccfa07e1520f229b6155c6ef7c3c7e91c294b7"
     }
   }
 }

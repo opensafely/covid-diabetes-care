@@ -47,8 +47,28 @@ glp1s = codelist_from_csv(
     column="dmd_id",
 )
 
+glp1_combined_insulin = codelist_from_csv(
+    "codelists/user-Andrew-glp-1s-in-combination-with-insulin-dmd.csv",
+    column="dmd_id",
+)
+
+glp1_not_combined = codelist_from_csv(
+    "codelists/user-Andrew-glp-1s-excluding-those-combined-insulin-dmd.csv",
+    column="dmd_id",
+)
+
 insulin = codelist_from_csv(
     "codelists/user-alex-walker-insulin-dmd.csv",
+    column="dmd_id",
+)
+
+insulin_basal = codelist_from_csv(
+    "codelists/user-Andrew-insulin-long-acting-basal-dmd.csv",
+    column="dmd_id",
+)
+
+insulin_mixed_biphasic = codelist_from_csv(
+    "codelists/user-Andrew-mixed-biphasic-insulin-dmd.csv",
     column="dmd_id",
 )
 
@@ -70,4 +90,15 @@ sglt_2_inhibitors = codelist_from_csv(
 sulfonylureas = codelist_from_csv(
     "codelists/user-alex-walker-sulfonylureas-dmd.csv",
     column="dmd_id",
+)
+
+# Chronic kidney disease codes-stages 3 - 5
+chronic_kidney_disease_stages_3_5_codes = codelist_from_csv(
+    "codelists/primis-covid19-vacc-uptake-ckd35.csv",
+    column="code",
+)
+# Chronic kidney disease codes-stages 3 - 5
+chronic_kidney_disease_stage_5_codes = codelist_from_csv(
+    "codelists/nhsd-primary-care-domain-refsets-ckd5_cod.csv",
+    column="code",
 )

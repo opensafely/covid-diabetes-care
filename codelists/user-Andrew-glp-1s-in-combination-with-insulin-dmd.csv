@@ -1,0 +1,7 @@
+dmd_type,dmd_id,dmd_name,bnf_code
+VMP,36630511000001105,Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices,0601012ABAAAAAA
+VMP,36630611000001109,Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices,0601012ABAAABAB
+AMP,36620611000001107,Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens,0601012ABBBAAAA
+AMP,36618311000001109,Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens,0601012ABBBABAB
+VMP,28279611000001109,Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices,0601023AUAAAAAA
+AMP,28054311000001106,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens,0601023AUBBAAAA

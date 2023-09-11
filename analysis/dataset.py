@@ -73,8 +73,28 @@ def generate_dataset(index_date):
     dataset.learning_difficulties = last_matching_event_ctv3(
         prior_events, codelists.learning_disabilites
     ).exists_for_patient()
-    # egfr =
-    # ckd =
+
+    # CKD
+    dataset.ckd35 = (
+        prior_events.where(
+            prior_events.snomedct_code.is_in(
+                codelists.chronic_kidney_disease_stages_3_5_codes
+            )
+        )
+        .sort_by(prior_events.date)
+        .last_for_patient()
+        .exists_for_patient()
+    )
+    dataset.ckd5 = (
+        prior_events.where(
+            prior_events.snomedct_code.is_in(
+                codelists.chronic_kidney_disease_stage_5_codes
+            )
+        )
+        .sort_by(prior_events.date)
+        .last_for_patient()
+        .exists_for_patient()
+    )
 
     # Diabetes variables
     diabetes_resolved = last_matching_event(prior_events, codelists.dmres_cod).date
@@ -97,11 +117,27 @@ def generate_dataset(index_date):
         when(dataset.hba1c > 86).then(">86"),
         default="Missing",
     )
+    dataset.hba1c_date = last_matching_event(prior_events, codelists.hba1c_cod).date
 
     # Medications
     dataset.dpp4_inhibitors = last_matching_med(recent_meds, codelists.dpp4_inhibitors)
     dataset.glp1s = last_matching_med(recent_meds, codelists.glp1s)
+    dataset.glp1_combined_insulin = last_matching_med(
+        recent_meds, codelists.glp1_combined_insulin
+    )
+    dataset.glp1_not_combined = last_matching_med(
+        recent_meds, codelists.glp1_not_combined
+    )
     dataset.insulin = last_matching_med(recent_meds, codelists.insulin)
+    dataset.insulin_basal = last_matching_med(recent_meds, codelists.insulin_basal)
+    dataset.insulin_mixed_biphasic = last_matching_med(
+        recent_meds, codelists.insulin_mixed_biphasic
+    )
+    dataset.insulin_non_basal = (
+        dataset.insulin.is_not_null()
+        & dataset.insulin_basal.is_null()
+        & dataset.insulin_mixed_biphasic.is_null()
+    )
     dataset.metformin = last_matching_med(recent_meds, codelists.metformin)
     dataset.pioglitazone = last_matching_med(recent_meds, codelists.pioglitazone)
     dataset.sglt_2_inhibitors = last_matching_med(
