@@ -48,13 +48,13 @@ glp1s = codelist_from_csv(
 )
 
 glp1_combined_insulin = codelist_from_csv(
-    "codelists/user-Andrew-glp-1s-in-combination-with-insulin.csv",
-    column="code",
+    "codelists/user-Andrew-glp-1s-in-combination-with-insulin-dmd.csv",
+    column="dmd_id",
 )
 
 glp1_not_combined = codelist_from_csv(
-    "codelists/user-Andrew-glp-1s-excluding-those-combined-insulin.csv",
-    column="code",
+    "codelists/user-Andrew-glp-1s-excluding-those-combined-insulin-dmd.csv",
+    column="dmd_id",
 )
 
 insulin = codelist_from_csv(
@@ -63,13 +63,13 @@ insulin = codelist_from_csv(
 )
 
 insulin_basal = codelist_from_csv(
-    "codelists/user-Andrew-insulin-long-acting-basal.csv",
-    column="code",
+    "codelists/user-Andrew-insulin-long-acting-basal-dmd.csv",
+    column="dmd_id",
 )
 
 insulin_mixed_biphasic = codelist_from_csv(
-    "codelists/user-Andrew-mixed-biphasic-insulin.csv",
-    column="code",
+    "codelists/user-Andrew-mixed-biphasic-insulin-dmd.csv",
+    column="dmd_id",
 )
 
 metformin = codelist_from_csv(

@@ -1,0 +1,28 @@
+dmd_type,dmd_id,dmd_name,bnf_code
+VMP,38896911000001108,Insulin glargine 100units/ml solution for injection 3ml cartridges,0601012V0AAAAAA
+VMP,36047111000001106,Insulin glargine 100units/ml solution for injection 10ml vials,0601012V0AAABAB
+VMP,38897011000001107,Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices,0601012V0AAADAD
+VMP,29903611000001103,Insulin glargine 300units/ml solution for injection 1.5ml pre-filled disposable devices,0601012V0AAAEAE
+VMP,36931811000001104,Insulin glargine 300units/ml solution for injection 3ml pre-filled disposable devices,0601012V0AAAFAF
+AMP,3284211000001102,Lantus 100units/ml solution for injection 3ml cartridges,0601012V0BBAAAA
+AMP,3287911000001100,Lantus 100units/ml solution for injection 10ml vials,0601012V0BBABAB
+AMP,3283211000001100,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pens,0601012V0BBACAD
+AMP,10250211000001101,Lantus 100units/ml solution for injection 3ml OptiClik cartridges,0601012V0BBADAA
+AMP,11933011000001106,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pens,0601012V0BBAEAD
+AMP,29866811000001104,Toujeo 300units/ml solution for injection 1.5ml pre-filled SoloStar pens,0601012V0BCAAAE
+AMP,36911311000001101,Toujeo 300units/ml solution for injection 3ml pre-filled DoubleStar pens,0601012V0BCABAF
+AMP,30172211000001102,Abasaglar 100units/ml solution for injection 3ml cartridges,0601012V0BDABAA
+AMP,30171811000001105,Abasaglar KwikPen 100units/ml solution for injection 3ml pre-filled pens,0601012V0BDACAD
+AMP,40322411000001106,Abasaglar Tempo Pen 100units/ml solution for injection 3ml pre-filled pens,0601012V0BDADAD
+AMP,36082811000001107,Semglee 100units/ml solution for injection 3ml pre-filled pens,0601012V0BEAAAD
+VMP,7597611000001106,Insulin detemir 100units/ml solution for injection 3ml cartridges,0601012X0AAAAAA
+VMP,7594211000001102,Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices,0601012X0AAABAB
+AMP,7589911000001108,Levemir Penfill 100units/ml solution for injection 3ml cartridges,0601012X0BBAAAA
+AMP,7589411000001100,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pens,0601012X0BBABAB
+AMP,11148111000001101,Levemir InnoLet 100units/ml solution for injection 3ml pre-filled pens,0601012X0BBACAB
+VMP,21939511000001100,Insulin degludec 100units/ml solution for injection 3ml cartridges,0601012Z0AAAAAA
+VMP,21939611000001101,Insulin degludec 100units/ml solution for injection 3ml pre-filled disposable devices,0601012Z0AAABAB
+VMP,21939711000001105,Insulin degludec 200units/ml solution for injection 3ml pre-filled disposable devices,0601012Z0AAACAC
+AMP,21928511000001109,Tresiba Penfill 100units/ml solution for injection 3ml cartridges,0601012Z0BBAAAA
+AMP,21930011000001100,Tresiba FlexTouch 100units/ml solution for injection 3ml pre-filled pens,0601012Z0BBABAB
+AMP,21931911000001108,Tresiba FlexTouch 200units/ml solution for injection 3ml pre-filled pens,0601012Z0BBACAC
