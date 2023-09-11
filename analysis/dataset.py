@@ -77,7 +77,9 @@ def generate_dataset(index_date):
     # CKD
     dataset.ckd35 = (
         prior_events.where(
-            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_stages_3_5_codes)
+            prior_events.snomedct_code.is_in(
+                codelists.chronic_kidney_disease_stages_3_5_codes
+            )
         )
         .sort_by(prior_events.date)
         .last_for_patient()
@@ -85,7 +87,9 @@ def generate_dataset(index_date):
     )
     dataset.ckd5 = (
         prior_events.where(
-            prior_events.snomedct_code.is_in(codelists.chronic_kidney_disease_stage_5_codes)
+            prior_events.snomedct_code.is_in(
+                codelists.chronic_kidney_disease_stage_5_codes
+            )
         )
         .sort_by(prior_events.date)
         .last_for_patient()
@@ -118,7 +122,18 @@ def generate_dataset(index_date):
     # Medications
     dataset.dpp4_inhibitors = last_matching_med(recent_meds, codelists.dpp4_inhibitors)
     dataset.glp1s = last_matching_med(recent_meds, codelists.glp1s)
+    dataset.glp1_combined_insulin = last_matching_med(recent_meds, codelists.glp1s)
+    dataset.glp1_not_combined = last_matching_med(recent_meds, codelists.glp1s)
     dataset.insulin = last_matching_med(recent_meds, codelists.insulin)
+    dataset.insulin_basal = last_matching_med(recent_meds, codelists.insulin_basal)
+    dataset.insulin_mixed_biphasic = last_matching_med(
+        recent_meds, codelists.insulin_mixed_biphasic
+    )
+    dataset.insulin_non_basal = (
+        dataset.insulin.is_not_null()
+        & dataset.insulin_basal.is_null()
+        & dataset.insulin_mixed_biphasic.is_null()
+    )
     dataset.metformin = last_matching_med(recent_meds, codelists.metformin)
     dataset.pioglitazone = last_matching_med(recent_meds, codelists.pioglitazone)
     dataset.sglt_2_inhibitors = last_matching_med(
