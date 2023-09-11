@@ -122,8 +122,12 @@ def generate_dataset(index_date):
     # Medications
     dataset.dpp4_inhibitors = last_matching_med(recent_meds, codelists.dpp4_inhibitors)
     dataset.glp1s = last_matching_med(recent_meds, codelists.glp1s)
-    dataset.glp1_combined_insulin = last_matching_med(recent_meds, codelists.glp1s)
-    dataset.glp1_not_combined = last_matching_med(recent_meds, codelists.glp1s)
+    dataset.glp1_combined_insulin = last_matching_med(
+        recent_meds, codelists.glp1_combined_insulin
+    )
+    dataset.glp1_not_combined = last_matching_med(
+        recent_meds, codelists.glp1_not_combined
+    )
     dataset.insulin = last_matching_med(recent_meds, codelists.insulin)
     dataset.insulin_basal = last_matching_med(recent_meds, codelists.insulin_basal)
     dataset.insulin_mixed_biphasic = last_matching_med(
