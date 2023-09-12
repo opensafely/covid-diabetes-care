@@ -4,7 +4,12 @@ from IPython.display import display, HTML
 medicines = [
     "dpp4_inhibitors",
     "glp1s",
+    "glp1_combined_insulin",
+    "glp1_not_combined",
     "insulin",
+    "insulin_basal",
+    "insulin_non_basal",
+    "insulin_mixed_biphasic",
     "metformin",
     "pioglitazone",
     "sglt_2_inhibitors",
@@ -23,6 +28,7 @@ stratifiers = [
     "obese",
     "learning_difficulties",
     "cardiovascular_history",
+    "ckd5",
 ]
 
 
