@@ -134,9 +134,9 @@ def generate_dataset(index_date):
         recent_meds, codelists.insulin_mixed_biphasic
     )
     dataset.insulin_non_basal = (
-        dataset.insulin.is_not_null()
-        & dataset.insulin_basal.is_null()
-        & dataset.insulin_mixed_biphasic.is_null()
+        when(dataset.insulin_basal.is_null() & dataset.insulin_mixed_biphasic.is_null())
+        .then(dataset.insulin)
+        .otherwise(None)
     )
     dataset.metformin = last_matching_med(recent_meds, codelists.metformin)
     dataset.pioglitazone = last_matching_med(recent_meds, codelists.pioglitazone)
@@ -150,4 +150,5 @@ def generate_dataset(index_date):
     dataset.define_population(
         (dataset.age < 110) & current_registration.exists_for_patient()
     )
+    dataset.configure_dummy_dataset(population_size=1000)
     return dataset
