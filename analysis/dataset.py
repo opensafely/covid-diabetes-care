@@ -150,4 +150,5 @@ def generate_dataset(index_date):
     dataset.define_population(
         (dataset.age < 110) & current_registration.exists_for_patient()
     )
+    dataset.configure_dummy_dataset(population_size=1000)
     return dataset
