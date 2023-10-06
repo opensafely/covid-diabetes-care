@@ -1,4 +1,4 @@
-from ehrql import Dataset, days, years, case, when
+from ehrql import create_dataset, days, years, case, when
 from ehrql.tables.beta.tpp import (
     patients,
     clinical_events,
@@ -18,7 +18,7 @@ import codelists
 
 def generate_dataset(index_date):
     # Instantiate dataset
-    dataset = Dataset()
+    dataset = create_dataset()
 
     # Extract prior events for further use in variable definitions below
     prior_events = clinical_events.where(
