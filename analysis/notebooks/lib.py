@@ -14,6 +14,10 @@ medicines = [
     "pioglitazone",
     "sglt_2_inhibitors",
     "sulfonylureas",
+    "glp1s_and_insulin",
+    "glp1s_and_insulin_basal",
+    "glp1s_and_insulin_non_basal",
+    "glp1s_and_insulin_mixed_biphasic",
 ]
 
 stratifiers = [

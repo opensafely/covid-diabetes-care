@@ -145,6 +145,33 @@ def generate_dataset(index_date):
     )
     dataset.sulfonylureas = last_matching_med(recent_meds, codelists.sulfonylureas)
 
+    # combine GLP-1s and insulin
+    # for convenience of running downstream analysis code, we return the GLP-1
+    #  dmd codes when the statement is true
+    dataset.glp1s_and_insulin = (
+        when(dataset.glp1s.is_not_null() & dataset.insulin.is_not_null())
+        .then(dataset.glp1s)
+        .otherwise(None)
+    )
+
+    dataset.glp1s_and_insulin_basal = (
+        when(dataset.glp1s.is_not_null() & dataset.insulin_basal.is_not_null())
+        .then(dataset.glp1s)
+        .otherwise(None)
+    )
+
+    dataset.glp1s_and_insulin_non_basal = (
+        when(dataset.glp1s.is_not_null() & dataset.insulin_non_basal.is_not_null())
+        .then(dataset.glp1s)
+        .otherwise(None)
+    )
+
+    dataset.glp1s_and_insulin_mixed_biphasic = (
+        when(dataset.glp1s.is_not_null() & dataset.insulin_mixed_biphasic.is_not_null())
+        .then(dataset.glp1s)
+        .otherwise(None)
+    )
+
     # Define population
     current_registration = practice_registration_as_of(index_date)
     dataset.define_population(
